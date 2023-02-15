@@ -1,0 +1,18 @@
+#contentofmain{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #dddddd;
+    padding-right: 200px;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    height: 530px;
+}
+
+.formcontentbox{
+    margin-top: 20px;
+}
+
+#addingbtn{
+    margin-top:10px;
+}

@@ -1,0 +1,35 @@
+
+
+.gradient-custom {
+
+    background: #6a11cb;
+    
+ 
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+  
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
+
+.card-body {
+    height: 691px;
+    position: relative;
+}
+
+.form-label {
+    margin-bottom: 0.5rem;
+    margin-right: 260px;
+}
+
+#signuplinklog{
+    position: relative;
+    bottom: 45px;
+}
+
+#cardbodylog {
+    height: min-content;
+}
+
+#bgcolorlog{
+    width: 500px;
+}

@@ -1,0 +1,67 @@
+.Auth-form-content{
+    padding-left: 650px;
+    padding-right: 650px;
+    padding-top: 200px;
+}
+
+#fullbox{
+    height: 165vh;
+}
+
+#bgcolor{
+    background-color: #121212;
+    height: 1222px;
+    margin-top: 10px;
+    position: relative;
+    left: 260px;
+    border-radius: 25px;
+    width: 500px;
+}
+
+.card-body {
+    height: 1222px;
+    position: relative;
+}
+
+#signuplink{
+    position: relative;
+    bottom: 25px;
+}
+
+.dropdown{
+    margin-right: 230px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+#userlabelconf{
+    margin-right: 200px;
+}
+
+#submitbtnreg{
+    position: relative;
+    top: 45px;
+}
+
+.error{
+    margin-right: 190px;
+    color: #ff6f6f;
+}
+
+.conferror{
+    margin-right: 125px;
+    color: #ff6f6f;
+}
+
+.dateerror{
+    margin-right: 160px;
+    color: #ff6f6f;
+}
+
+.countryerror{
+    margin-right: 190px;
+    display: inline-block;
+    color: #ff6f6f;
+}
+    

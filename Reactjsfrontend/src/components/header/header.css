@@ -1,0 +1,42 @@
+.navbar {
+    z-index: 1000;
+    position: fixed;
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+.navbar-brand {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+    padding: 0 10px;
+    color: #333;
+    margin-right: 10px;
+}
+
+.form-inline .form-control {
+    width: 200px;
+}
+
+.btn-outline-danger {
+    border-color: #dc3545;
+    color: #dc3545;
+    margin-left: 10px;
+}
+
+.btn-outline-success {
+    border-color: #28a745;
+    color: #28a745;
+}
+.height-1 {
+    height: 1px;
+}
+
+#searchbarheader{
+    position:relative;
+    left:50px;
+}
